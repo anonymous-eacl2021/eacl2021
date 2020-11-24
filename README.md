@@ -7,7 +7,8 @@
 ![desc](abstraction_pattern_tuned_xnli_langs_svcca-1.png)
  
  ## CKA
- <image src="abstraction_pattern_tuned_xnli_langs_cka.pdf"/>
+![desc](abstraction_pattern_tuned_xnli_langs_cka-1.png)
  
  ## PWCCA
- <image src="abstraction_pattern_tuned_xnli_langs_pwcca.pdf"/>
+![desc](abstraction_pattern_tuned_xnli_langs_pwcca-1.png)
+ 
