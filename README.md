@@ -4,10 +4,10 @@
   * PWCCA does not pass the check and does not reveal interlingua
   
  ## SVCCA
- <image src="/abstraction_pattern_tuned_xnli_layers_svcca.pdf"/>
+ <image src="/abstraction_pattern_tuned_xnli_langs_svcca.pdf"/>
  
  ## CKA
- <image src="/abstraction_pattern_tuned_xnli_layers_cka.pdf"/>
+ <image src="/abstraction_pattern_tuned_xnli_langs_cka.pdf"/>
  
  ## PWCCA
- <image src="/abstraction_pattern_tuned_xnli_layers_pwcca.pdf"/>
+ <image src="/abstraction_pattern_tuned_xnli_langs_pwcca.pdf"/>
