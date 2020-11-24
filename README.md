@@ -4,7 +4,7 @@
   * PWCCA does not pass the check and does not reveal interlingua
   
  ## SVCCA
-![](abstraction_pattern_tuned_xnli_langs_cka.pdf "")
+![desc](abstraction_pattern_tuned_xnli_langs_svcca.pdf "title")
  
  ## CKA
  <image src="abstraction_pattern_tuned_xnli_langs_cka.pdf"/>
