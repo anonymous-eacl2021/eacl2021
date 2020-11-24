@@ -1,5 +1,5 @@
 ## Following graphs show that:
-  * SVCCA and CKA pass sanity check of paraphrasing baseline (```en_rand```)
+  * SVCCA and CKA pass sanity check of paraphrasing baseline (```en vs en_rand```)
   * SVCCA and CKA reveal interlingua 
   * PWCCA does not pass the check and does not reveal interlingua
   
