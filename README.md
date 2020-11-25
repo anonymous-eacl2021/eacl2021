@@ -12,3 +12,7 @@
  ## PWCCA
 ![desc](abstraction_pattern_tuned_xnli_langs_pwcca-1.png)
  
+## Cosine
+
+![desc](abstraction_pattern_tuned_xnli_langs_cosine-1.png)
+ 
